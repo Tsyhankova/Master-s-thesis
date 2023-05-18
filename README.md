@@ -60,3 +60,25 @@ The Encoder-Decoder model with attention focuses on specific parts of the input 
 ● Finally, we pass the decoder’s output through another fully connected neural network and apply the softmax function to generate a prediction for the next word in the sequence</p>
 
 
+<p class="has-line-data" data-line-start="0" data-line-end="1">The scope of the project and what the project needs to accomplish in order to be considered successful is as follows:</p>
+<ol>
+<li class="has-line-data" data-line-start="1" data-line-end="7">Seq2Seq (RNN with attention): The project implemented a version of the Sequence to Sequence model with attention capable of generating dialogues.<br>
+To achieve this, the project:<br>
+•   Implemented the Seq2Seq model architecture with an encoder-decoder structure.<br>
+•   Incorporated attention mechanism to focus on relevant parts of the input sequence.<br>
+•   Trained the model using appropriate dialogue datasets.<br>
+•   Evaluated the model’s performance using automatic evaluation metrics and human evaluation.</li>
+<li class="has-line-data" data-line-start="7" data-line-end="13">Transformer: The project implemented the Transformer model, which was capable of generating dialogues.<br>
+To accomplish this, the project:<br>
+•   Implemented the Transformer model architecture, including multi-head self-attention and feed-forward layers.<br>
+•   Incorporated positional encoding to capture word positions in the sequence.<br>
+•   Trained the Transformer model using dialogue datasets.<br>
+•   Evaluated the model’s performance using automatic evaluation metrics and human evaluation.</li>
+<li class="has-line-data" data-line-start="13" data-line-end="20">Model Comparison: The above-mentioned models were trained and compared based on automatic and human evaluation metrics.<br>
+To perform this comparison, the project:<br>
+•   Trained both the Seq2Seq model and the Transformer model on the same dialogue datasets.<br>
+•   Evaluated the models using established automatic evaluation metrics.<br>
+•   Conducted human evaluation, which involved having human evaluators assess the generated dialogues for fluency, coherence, and relevance.<br>
+•   Compared the performance of the models based on the evaluation results.<br>
+The successful completion of these tasks within the project enabled a comprehensive comparison of the Seq2Seq model and the Transformer model in generating dialogues.</li>
+</ol>
