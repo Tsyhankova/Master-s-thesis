@@ -1,4 +1,4 @@
-<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="CHATBOT_0"></a>CHATBOT</h1>
+
 <h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="Description_of_chatbot_architecture_1"></a>Description of chatbot architecture:</h2>
 <p class="has-line-data" data-line-start="3" data-line-end="4">In this project, a prototype of a chatbot is proposed, and its final implementation structure is designed based on the study of literature on chatbot implementations used in the business process. The architecture of the AI chatbot is presented in Figure below and consists of several components. It includes:</p>
 <ol>
